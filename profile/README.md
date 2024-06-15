@@ -19,6 +19,9 @@ idk just do it ig.
 We typically use the GNU GPL V3 for our projects but sometimes we like to duel license our repos with the GNU GPL and MIT licenses.
 
 ## Contact Information
+- longnecklion126@gmail.com
+- lightsouthappysprout@gmail.com
+- TuckerKaleoSur@gmail.com
 
 --- README By AeternusDio -- 
 
