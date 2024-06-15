@@ -13,6 +13,7 @@ Sbx7 - [Sbx7](https://github.com/sbx7) Email : TuckerKaleoSur@gmail.com
 idk just do it ig.
 
 ## Code of Conduct
+[ASP Covenant](https://github.com/Apache-Software-Productions/.github/blob/main/Code-of-Conduct.md)
 
 ## License Information
 We typically use the GNU GPL V3 for our projects but sometimes we like to duel license our repos with the GNU GPL and MIT licenses.
