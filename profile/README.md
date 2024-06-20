@@ -13,7 +13,7 @@ Sbx7 - [Sbx7](https://github.com/sbx7) Email : TuckerKaleoSur@gmail.com
 idk just do it ig.
 
 ## Code of Conduct
-[ASP Covenant](https://github.com/QUAKTECH/.github/blob/main/Code-of-Conduct.md)
+[QUAKTECH Covenant](https://github.com/QUAKTECH/.github/blob/main/Code-of-Conduct.md)
 
 ## License Information
 We typically use the QUAKTECH for our projects but sometimes we like to duel license our repos with the QUAKTECH and MIT licenses.
