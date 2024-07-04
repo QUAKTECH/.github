@@ -7,7 +7,7 @@ We make software cuz we're bored, but sometimes it can be useful, our main missi
 ## Team Members
 AeternusDio - [AeternusDio](https://github.com/AeternusDio) Email : longnecklion126@gmail.com <br> 
 Cupboardmanufracturer - [Cupboardmanufracturer](https://github.com/cupboardmanufacturer) Email : lightsouthappysprout@gmail.com <br>
-Sbx7 - [Sbx7](https://github.com/sbx7) Email : TuckerKaleoSur@gmail.com
+Sbx7 - [Sbx7](https://github.com/sbx7) Email : idk
 
 ## How to Contribute
 idk just do it ig.
