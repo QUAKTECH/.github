@@ -20,7 +20,6 @@ We typically use the QUAKTECH for our projects but sometimes we like to duel lic
 
 ## Contact Information
 - longnecklion126@gmail.com
-- lightsouthappysprout@gmail.com
 - TuckerKaleoSur@gmail.com
 
 --- README By AeternusDio -- 
